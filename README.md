@@ -1,15 +1,15 @@
 <h1>Jung Rhythm</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/cover.png?raw=true">English translation patch for the rhythm game "Jung Rhythm" on the Sega Saturn.
 <br><br>
-"Jung Rhythm" is a rhythm game for the Sega Saturn, often compared to PaRappa the Rapper for some of its similarities.
+"Jung Rhythm" is a rhythm game for the Sega Saturn, often compared to "PaRappa the Rapper" for some of its similarities, although according to records, both games were in development simultaneously.
 <br><br>
-The player takes the role of Vanilla Essence, a young girl who dreams of being a star, and the story follows her quest from eating breakfast through to a duet with her favourite superstar, the puzzlingly named Mr. Chorking!
+The player takes the role of Vanilla Essence, a young girl who dreams of being a star. The story follows her quest from eating breakfast through to a duet with her favorite superstar, the earth-loving rocker, Mr. Chorking!
 <br><br>
-The gameplay itself takes the form of call-and-response dance and song duets with various characters, where the other character will sing a line and you're asked to repeat it. Lyrics appear in a shaded box at the top of the screen, while input prompts appear in the first of a pair of bars along the bottom of the screen as they sing, and the player then repeats it on the second bar. Ad-libbed inputs are also permitted, and there are specific ad-lib segments.
+The gameplay itself takes the form of call-and-response dance and song duets with various characters, where the other characters will sing a line and the player is asked to repeat it. Lyrics appear at the top of the screen, while input prompts appear in the first of a pair of bars along the bottom of the screen as they sing. Ad-libbed inputs are also permitted, and there are specific ad-lib segments.
 <br><br>
 Vanilla Essence's performance is then graded in five categories and given an overall score. A score above 70 is a passing grade, and allows continuing to the next story segment. Between story segments there is a short full-motion video cutscene connecting the dots.
 <br><br>
-The game additionally includes a practice mode, as well as a two-player battle mode, where two players can compare their skills.
+The game additionally includes a practice mode, as well as a two-player battle mode, where players can compare their skills.
 <br><br>
 The latest version of this patch is <a href="xxxxx">1.0</a>.
 
