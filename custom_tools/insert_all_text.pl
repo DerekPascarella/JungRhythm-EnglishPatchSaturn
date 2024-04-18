@@ -218,7 +218,7 @@ for(my $i = 0; $i < scalar(@spreadsheets); $i ++)
 				# There's room on the current line to append the word, including an empty space in
 				# between words.
 				if(length($translation_wrapped_array[$translation_wrapped_array_index] . $translation_wrapped_word) +
-                   ($translation_wrapped_array[$translation_wrapped_array_index] ? 1 : 0) <= 29)
+                   		  ($translation_wrapped_array[$translation_wrapped_array_index] ? 1 : 0) <= 29)
 				{
 					$translation_wrapped_array[$translation_wrapped_array_index] .= ($translation_wrapped_array[$translation_wrapped_array_index] ? ' ' : '') . $translation_wrapped_word;
 				}
