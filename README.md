@@ -85,9 +85,10 @@ After launching the utility, follow the steps below to apply the English transla
 
 <h2>What's Changed</h2>
 <ul>
- <li>A new single-byte character encoding and font have been implemented.</li>
- <li>All text and graphics have been translated into English, including song lyrics.</li>
- <li>All cutscene videos have been translated and subtitled in English.</li>
+ <li>A new single-byte character encoding and new font have been implemented.</li>
+ <li>All text has been translated into English, including song lyrics.</li>
+ <li>All graphics have been translated into English and re-rendered.</li>
+ <li>All cutscene videos have been translated into English, subtitled, and re-rendered.</li>
 </ul>
 
 <h2>About the Game</h2>
