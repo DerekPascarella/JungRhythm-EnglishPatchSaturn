@@ -33,7 +33,7 @@ The latest version of this patch is <a href="xxxxx">1.0</a>.
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
 <li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>2AD43339F89B1D093177E0F57FED8898</tt>.</li>
 </ol>
-Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Sega Saturn Patcher</a> is not compatible with the original disc image, and thus its format could not be used to distribute this patch.
+Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Sega Saturn Patcher</a> is not compatible with the "Jung Rhythm", and thus its format could not be used to distribute this patch.
 
 
 <h2>Credits</h2>
