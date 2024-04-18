@@ -53,43 +53,43 @@ closedir(DIR);
 # Define hash containg map of all offsets to which text data can be written, along with the maximum
 # number of bytes that can be stored there.
 my %space_map = (
-					'0KERNEL.BIN' => {
-									 	12632 => 824,
-									 	14404 => 32,
-									 	14692 => 172,
-									 	15012 => 52,
-									 	15196 => 68,
-									 	17444 => 204,
-									 	18644 => 132
-									 },
-					'REN.BIN;' =>	{
-										40	=> 60,
-										1072  => 168,
-										2096  => 52,
-										2368  => 204
-									 },
-					'STG1.BIN;' =>   {
-										24	=> 1336
-									 },
-					'STG2.BIN;' =>   {
-										24	=> 812
-									 },
-					'STG3.BIN;' =>   {
-										24	=> 760
-									 },
-					'STG4.BIN;' =>   {
-										24	=> 604
-									 },
-					'STG5.BIN;' =>   {
-										24	=> 1704
-									 },
-					'STG6A.BIN;' =>  {
-										24	=> 724
-									 },
-					'STG6B.BIN;' =>  {
-										24	=> 972
-									 }
-				);
+			'0KERNEL.BIN' => {
+						12632 => 824,
+						14404 => 32,
+						14692 => 172,
+						15012 => 52,
+						15196 => 68,
+						17444 => 204,
+						18644 => 132
+					 },
+			'REN.BIN;' =>	{
+						40    => 60,
+						1072  => 168,
+						2096  => 52,
+						2368  => 204
+					 },
+			'STG1.BIN;' =>   {
+						24    => 1336
+					 },
+			'STG2.BIN;' =>   {
+						24    => 812
+					 },
+			'STG3.BIN;' =>   {
+						24    => 760
+					 },
+			'STG4.BIN;' =>   {
+						24    => 604
+					 },
+			'STG5.BIN;' =>   {
+						24    => 1704
+					 },
+			'STG6A.BIN;' =>  {
+						24    => 724
+					 },
+			'STG6B.BIN;' =>  {
+						24    => 972
+					 }
+		);
 
 # Status message.
 print "\n[PRELIMINARY NULL BYTE PATCHING]\n";
