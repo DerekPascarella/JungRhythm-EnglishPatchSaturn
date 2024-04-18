@@ -179,3 +179,5 @@ Throughout each stage, a message appears on or more times informing players that
 <img align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/screenshot_2.png?raw=true" width="290" height="203">If players receive a score of 465 or better on stage six, where Vanilla dances with Mr. Chorking on stage, they will be rewarded with an additional bonus stage after fans demand an encore from Mr. Chorking.
 <br><br>
 Additionally, an alternative final video sequence will play, dubbed as the "good ending".
+<br><br>
+If players are unable to achieve a sufficient score to see this ending during their first playthrough of the game, they can use the "LOAD" option on the main menu to replay stage six and try again.
