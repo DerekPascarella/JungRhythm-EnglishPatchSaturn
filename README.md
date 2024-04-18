@@ -118,7 +118,7 @@ After launching the utility, follow the steps below to apply the English transla
 <img align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/screenshot_1.png?raw=true" width="290" height="210">"Jung Rhythm" features six playable stages (as well as a bonus end stage), as well as a two-player battle mode, and a training mode. Each stage requires players to mimic the instruction, following along with the button presses in time with the music.
 <br><br>
 Throughout each stage, a message appears on or more times informing players that it's time to freestyle ("Ad-libbing"). While any combination of buttons will suffice, below are a list of finishing moves for each playable character.
-<br><br>
+<br>
 <h3>Vanilla's Finishing Moves</h3>
 <table>
   <tr>
