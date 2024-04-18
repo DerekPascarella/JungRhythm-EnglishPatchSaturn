@@ -96,7 +96,7 @@ foreach(@input_files)
 			}
 			# If last five bytes are null terminators, add entry for data used in RAM.
 			elsif($byte_array[$i] eq "00" && $byte_array[$i-1] eq "00" && $byte_array[$i-2] eq "00" &&
-                  $byte_array[$i-3] eq "00" && $byte_array[$i-4] eq "00" && $ram_found == 0)
+                  	      $byte_array[$i-3] eq "00" && $byte_array[$i-4] eq "00" && $ram_found == 0)
 			{
 				# Set flag to one (true).
 				$ram_found = 1;
