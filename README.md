@@ -75,7 +75,7 @@ The latest version of this patch is <a href="xxxxx">1.0</a>.
 
 <h2>What's Changed</h2>
 <ul>
- <li>A new single-byte character encoding and new font have been implemented.</li>
+ <li>New single-byte character encoding code and a new font have been implemented.</li>
  <li>All text has been translated into English, including song lyrics.</li>
  <li>All graphics have been translated into English and re-rendered.</li>
  <li>All cutscene videos have been translated into English, subtitled, and re-rendered.</li>
