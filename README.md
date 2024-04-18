@@ -24,24 +24,14 @@ The latest version of this patch is <a href="xxxxx">1.0</a>.
 9. [Good and Bad Endings](#good-and-bad-endings)
 
 <h2>Patching Instructions</h2>
-<img align="right" width="250" height="187" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/patcher.png?raw=true">The SSP file shipped with this patch is for use with <a href="https://drive.google.com/uc?export=download&id=1815dZRP0_N3TihjsHBepPuJN1hopiDLG">Sega Saturn Patcher</a> version 1.95 or newer. While the <a href="http://redump.org/disc/34316/">Redump version of the game</a> was used as the source disc image during development and testing, Sega Saturn Patcher is a flexible utility that accepts multiple disc image formats as input.
-<br><br>
-After launching the utility, follow the steps below to apply the English translation patch.
+<img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/26548/">Redump version of the game</a> is used as the source disc image, where <tt>Jung Rhythm (Japan) (Track 01).bin</tt> has an MD5 checksum of <tt>2A8828A0E29CF17ED045BDAF29A6E761</tt>.
 <br><br>
 <ol type="1">
-  <li>Click "Select Saturn Game" at the top of the window.</li>
-  <li>Click "CD Image", then navigate to the location of your original source disc image and click "Open" at the bottom right of the dialogue window.</li>
-  <li>Click "+ Game Patch (SSP)" on the middle-right of the window.</li>
-  <li>Navigate to the location of "Rabbit (English - v1.0).ssp" and then click "Open" at the bottom right of the dialogue window.</li>
-  <li>Check the box at the bottom-right of the window labeled "Separate Track Files (if applicable)".</li>
-  <li>Click "Build Image" at the bottom-right of the window and then navigate to the target folder where patched disc image should be stored.</li>
-    <ul>
-      <li>MODE, Satiator, and Fenrir users should select "CUE/BIN" under the "Save as type" dropdown.</li>
-      <li>Rhea/Phoebe users should select "CCD/IMG" under the "Save as type" dropdown.
-      <li>Users burning to CD-R should select "CUE/BIN" under the "Save as type" dropdown, as this format is universally compatible with all popular burning software.</li>
-      <li>Emulator users should select "CUE/BIN" under the "Save as type" dropdown, as this format is universally compatible with all popular emulators.</li>
-    </ul>
-  <li>Once patching is complete, click "X" at the top-right of the window.</li>
+<li>Click the settings icon (appears as a gear), then enable "Checksum validation" and disable "Backup original file".</li>
+<li>Click the "Original file" browse icon and select the unmodified <tt>Jung Rhythm (Japan) (Track 01).bin</tt> file.</li>
+<li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
+<li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>2AD43339F89B1D093177E0F57FED8898</tt>.</li>
 </ol>
 
 <h2>Credits</h2>
