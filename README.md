@@ -21,6 +21,7 @@ The latest version of this patch is <a href="xxxxx">1.0</a>.
 4. [What's Changed](#whats-changed)
 5. [About the Game](#about-the-game)
 8. [How to Play](#how-to-play)
+9. [Good and Bad Endings](#good-and-bad-endings)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" height="187" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/patcher.png?raw=true">The SSP file shipped with this patch is for use with <a href="https://drive.google.com/uc?export=download&id=1815dZRP0_N3TihjsHBepPuJN1hopiDLG">Sega Saturn Patcher</a> version 1.95 or newer. While the <a href="http://redump.org/disc/34316/">Redump version of the game</a> was used as the source disc image during development and testing, Sega Saturn Patcher is a flexible utility that accepts multiple disc image formats as input.
@@ -114,8 +115,60 @@ After launching the utility, follow the steps below to apply the English transla
 </table>
 
 <h2>How to Play</h2>
-<img align="right" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/options.png?raw=true" width="290" height="218">In "Rabbit" there exists numerous unlockable options only accessible to players after beating the game one or more times (depending on the option). As part of this English translation patch, these supplemental options have been enabled by default.
+<img align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/screenshot_1.png?raw=true" width="290" height="210">"Jung Rhythm" features six playable stages (as well as a bonus end stage), as well as a two-player battle mode, and a training mode. Each stage requires players to mimic the instruction, following along with the button presses in time with the music.
 <br><br>
-Additionally, the behavior of one of these extra options ("DAMAGE") has been modified. Originally, setting "DAMAGE" to "OFF" made both player one and two invincible. However, players of this patch will now find that turning this setting to "OFF" provides unlimited health for player one only.
+Throughout each stage, a message appears on or more times informing players that it's time to freestyle ("Ad-libbing"). While any combination of buttons will suffice, below are a list of special moves for each playable character.
 <br><br>
-This is particularly useful for those who want to experience each of the eight characters' end-of-game cutscene events without the effort of defeating every opponent along the way.
+<h3>Vanilla's Finishing Moves</h3>
+<table>
+  <tr>
+    <td>Vani-Somersault</td>
+    <td>Down + Up + C</td>
+  </tr>
+  <tr>
+    <td>Vani-Riser</td>
+    <td>Right + Down + Right + A</td>
+  </tr>
+  <tr>
+    <td>Vanilla Screw</td>
+    <td>Left + Right + Down + Left + B</td>
+  </tr>
+</table>
+<h3>Other Characters' Special Moves</h3>
+<table>
+  <tr>
+    <td><b>Character</b></td>
+    <td><b>Move Name</b></td>
+    <td><b>Button Combination</b></td>
+  </tr>
+  <tr>
+    <td>Dorian</td>
+    <td>Dori-Riser</td>
+    <td>Right + Down + Right + A</td>
+  </tr>
+  <tr>
+    <td>Mama</td>
+    <td>Egg Crusher</td>
+    <td>Left + Down + Right + B</td>
+  </tr>
+  <tr>
+    <td>Picasso</td>
+    <td>Arts Bomber</td>
+    <td>Right + Left + Right + A</td>
+  </tr>
+  <tr>
+    <td>Gonzo Enka</td>
+    <td>Flower Path of Enka</td>
+    <td>C + Down + B + Down</td>
+  </tr>
+  <tr>
+    <td>Coco Pine</td>
+    <td>Funky Beat</td>
+    <td>Left + Up + Right + B</td>
+  </tr>
+  <tr>
+    <td>Mr. Chorking</td>
+    <td>Ecology Shower</td>
+    <td>Down + Left + Down + Left + A</td>
+  </tr>
+</table>
