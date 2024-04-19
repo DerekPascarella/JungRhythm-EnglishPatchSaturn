@@ -9,7 +9,7 @@ The gameplay itself takes the form of call-and-response dance and song duets wit
 <br><br>
 Vanilla Essence's performance is then graded in five categories and given an overall score. A score above 70 is a passing grade, and allows continuing to the next story segment. Between story segments there is a short full-motion video cutscene connecting the dots.
 <br><br>
-The game additionally includes a practice mode, as well as a two-player battle mode, where players can compare their skills.
+The game additionally includes a practice mode, as well as a two-player "BATTLE" mode, where players can compare their skills.
 <br><br>
 The latest version of this patch is <a href="xxxxx">1.0</a>.
 
@@ -108,9 +108,11 @@ Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Seg
 </table>
 
 <h2>How to Play</h2>
-<img align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/screenshot_1.png?raw=true" width="290" height="210">"Jung Rhythm" features six playable stages (as well as a bonus end stage), as well as a two-player battle mode, and a training mode. Each stage requires players to mimic the instruction, following along with the button presses in time with the music.
+<img align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/screenshot_1.png?raw=true" width="290" height="210">"Jung Rhythm" features six playable stages (as well as a bonus end stage), as well as a two-player "BATTLE" mode, and a training mode. Each stage requires players to mimic the instructor, following along with button presses in time with the music.
 <br><br>
-Throughout each stage, a message appears on or more times informing players that it's time to freestyle ("Ad-libbing"). While any combination of buttons will suffice, below are a list of finishing moves for each playable character.
+In two-player "BATTLE" mode, there are two gameplay styles to choose from: "RHYTHM JUNGLE" and "BATTLE JUNGLE". The former features a back-and-forth where each player takes turns, whereas the latter features a separate bar on the bottom of the screen for both players to sing and dance at the same time.
+<br><br>
+Throughout each single-player stage, a message appears one or more times informing players that it's time to freestyle ("Ad-libbing"). While any combination of buttons will suffice, below are a list of finishing moves for each playable character, awarding extra points.
 <br>
 <h3>Vanilla's Finishing Moves</h3>
 <table>
