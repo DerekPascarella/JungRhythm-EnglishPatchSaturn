@@ -112,7 +112,7 @@ Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Seg
 <br><br>
 In two-player "BATTLE" mode, there are two gameplay styles to choose from: "RHYTHM JUNGLE" and "BATTLE JUNGLE". The former features a back-and-forth where each player takes turns, whereas the latter features a separate bar on the bottom of the screen for both players to sing and dance at the same time.
 <br><br>
-Throughout each single-player stage, a message appears one or more times informing players that it's time to freestyle ("Ad-libbing"). While any combination of buttons will suffice, below are a list of finishing moves for each playable character, awarding extra points.
+Throughout each single-player stage, a message appears one or more times informing players that it's time to freestyle ("Ad-libbing"). While any combination of buttons will help add to one's score, below are a list of finishing moves for the only playable character, Vanilla Essence.
 <br>
 <h3>Vanilla's Finishing Moves</h3>
 <table>
@@ -129,7 +129,12 @@ Throughout each single-player stage, a message appears one or more times informi
     <td>Left + Right + Down + Left + B</td>
   </tr>
 </table>
-<h3>Other Characters' Finishing Moves</h3>
+
+<br>
+In two-player "BATTLE" mode, if selecting the "BATTLE JUNGLE" option, a gague will fill and a symbol will appear signifying that the player is able to perform a finishing move, each of which is listed below.
+
+<h3>All Characters' Finishing Moves</h3>
+
 <table>
   <tr>
     <td><b>Character</b></td>
@@ -137,12 +142,27 @@ Throughout each single-player stage, a message appears one or more times informi
     <td><b>Button Combination</b></td>
   </tr>
   <tr>
-    <td>Dorian</td>
+    <td>Vanilla Essence</td>
+    <td>Vani-Somersault</td>
+    <td>Down + Up + C</td>
+  </tr>
+  <tr>
+    <td>Vanilla Essence</td>
+    <td>Vani-Riser</td>
+    <td>Right + Down + Right + A</td>
+  </tr>
+  <tr>
+    <td>Vanilla Essence</td>
+    <td>Vanilla Screw</td>
+    <td>Left + Right + Down + Left + B</td>
+  </tr>
+  <tr>
+    <td>Dorian Bavarois</td>
     <td>Dori-Riser</td>
     <td>Right + Down + Right + A</td>
   </tr>
   <tr>
-    <td>Mama</td>
+    <td>Mama Essence</td>
     <td>Egg Crusher</td>
     <td>Left + Down + Right + B</td>
   </tr>
