@@ -11,7 +11,7 @@ Vanilla Essence's performance is then graded in five categories and given an ove
 <br><br>
 The game additionally includes a practice mode, as well as a two-player "BATTLE" mode, where players can compare their skills.
 <br><br>
-The latest version of this patch is <a href="xxxxx">1.0</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/releases/download/1.0/Jung.Rhythm.English.-.v1.0.zip">1.0</a>.
 
 <h2>Table of Contents</h2>
 
