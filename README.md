@@ -30,7 +30,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <ol type="1">
 <li>Click the settings icon (appears as a gear), then enable "Checksum validation" and disable "Backup original file".</li>
 <li>Click the "Original file" browse icon and select the unmodified <tt>Jung Rhythm (Japan) (Track 01).bin</tt> file.</li>
-<li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
+<li>Click the "XDelta patch" browse icon and select the <tt>Jung Rhythm (English - v1.0).xdelta</tt> patch file.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
 <li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>2AD43339F89B1D093177E0F57FED8898</tt>.</li>
 </ol>
