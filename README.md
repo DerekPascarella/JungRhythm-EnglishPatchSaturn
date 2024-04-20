@@ -22,6 +22,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 5. [About the Game](#about-the-game)
 8. [How to Play](#how-to-play)
 9. [Good and Bad Endings](#good-and-bad-endings)
+10. [FMV Playlist](#fmv-playlist)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/26548/">Redump version of the game</a> is used as the source disc image, where <tt>Jung Rhythm (Japan) (Track 01).bin</tt> has an MD5 checksum of <tt>2A8828A0E29CF17ED045BDAF29A6E761</tt>.
@@ -195,3 +196,8 @@ In two-player "BATTLE" mode, if selecting the "BATTLE JUNGLE" option, a gague wi
 Additionally, an alternative final video sequence will play, dubbed as the "good ending". This version of the ending is also the only way to see the staff credits video.
 <br><br>
 If players are unable to achieve a sufficient score to see this ending during their first playthrough of the game, they can use the "LOAD" option on the main menu to replay stage six and try again.
+
+<h2>FMV Playlist</h2>
+All subtitled FMVs from the game have been uploaded to YouTube and added to a single playlist. Players who are unable to achieve the good ending can watch the <b>ENC</b> and <b>ED2</b> videos, should they so desire.
+<br><br>
+Playlist link: <a href="https://www.youtube.com/playlist?list=PLzv9q1kzOXvp4K-3cyzAC20wYJunXK2A9">https://www.youtube.com/playlist?list=PLzv9q1kzOXvp4K-3cyzAC20wYJunXK2A9</a>
