@@ -32,7 +32,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click the "Original file" browse icon and select the unmodified <tt>Jung Rhythm (Japan) (Track 01).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the <tt>Jung Rhythm (English - v1.0).xdelta</tt> patch file.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>2AD43339F89B1D093177E0F57FED8898</tt>.</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>25F96A0FD0FA64A4AD6D9584B6824354</tt>.</li>
 </ol>
 Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Sega Saturn Patcher</a> is not compatible with the "Jung Rhythm", and thus its format could not be used to distribute this patch.
 
