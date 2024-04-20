@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 # insert_all_text.pl
-# Text insertor for the SEGA Saturn game "Jung Rhythm".
+# Text inserter for the SEGA Saturn game "Jung Rhythm".
 #
 # Written by Derek Pascarella (ateam)
 
