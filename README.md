@@ -3,7 +3,7 @@
 <br><br>
 "Jung Rhythm" is a rhythm game for the Sega Saturn, often compared to "PaRappa the Rapper" for some of its similarities, although according to records, both games were in development simultaneously.
 <br><br>
-The player takes the role of Vanilla Essence, a young girl who dreams of being a star. The story follows her quest from eating breakfast through to a duet with her favorite superstar, the earth-loving rocker, Mr. Chorking!
+The player takes the role of Vanilla Essence, a young girl who dreams of being a star. The story follows her quest from eating breakfast through to a duet with her favorite superstar, the earth-loving rocker, Chorking!
 <br><br>
 The gameplay itself takes the form of call-and-response dance and song duets with various characters, where the other characters will sing a line and the player is asked to repeat it. Lyrics appear at the top of the screen, while input prompts appear in the first of a pair of bars along the bottom of the screen as they sing. Ad-libbed inputs are also permitted, and there are specific ad-lib segments.
 <br><br>
