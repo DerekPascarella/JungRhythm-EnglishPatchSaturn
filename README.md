@@ -70,7 +70,7 @@ Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Seg
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.0 (2024-XX-XX)</li>
+ <li>Version 1.0 (2024-04-20)</li>
  <ul>
   <li>Initial release.</li>
  </ul>
