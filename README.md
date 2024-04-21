@@ -7,7 +7,7 @@ The player takes the role of Vanilla Essence, a young girl who dreams of being a
 <br><br>
 The gameplay itself takes the form of call-and-response dance and song duets with various characters, where the other characters will sing a line and the player is asked to repeat it. Lyrics appear at the top of the screen, while input prompts appear in the first of a pair of bars along the bottom of the screen as they sing. Ad-libbed inputs are also permitted, and there are specific ad-lib segments.
 <br><br>
-Vanilla Essence's performance is then graded in five categories and given an overall score. A score above 70 is a passing grade, and allows continuing to the next story segment. Between story segments there is a short full-motion video cutscene connecting the dots.
+Vanilla Essence's performance is then graded in five categories and given an overall score. If players score high enough, they're allowed to continue to the next story segment. Between story segments there is a short full-motion video cutscene connecting the dots.
 <br><br>
 The game additionally includes a practice mode, as well as a two-player "BATTLE" mode, where players can compare their skills.
 <br><br>
