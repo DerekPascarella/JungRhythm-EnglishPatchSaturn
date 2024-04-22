@@ -25,6 +25,30 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 10. [FMV Playlist](#fmv-playlist)
 
 <h2>Patching Instructions</h2>
+There are two options available for those wishing to enjoy this English translation patch.
+
+<h3>Sega Saturn Patcher</h3>
+<img align="right" width="250" height="187" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/patcher.png?raw=true">The SSP file shipped with this patch is for use with <a href="https://drive.google.com/uc?export=download&id=1815dZRP0_N3TihjsHBepPuJN1hopiDLG">Sega Saturn Patcher</a> version 1.95 or newer. While the <a href="http://redump.org/disc/26548/">Redump version of the game</a> was used as the source disc image during development and testing, Sega Saturn Patcher is a flexible utility that accepts multiple disc image formats as input.
+<br><br>
+After launching the utility, follow the steps below to apply the English translation patch.
+<br><br>
+<ol type="1">
+  <li>Click "Select Saturn Game" at the top of the window.</li>
+  <li>Click "CD Image", then navigate to the location of your original source disc image and click "Open" at the bottom right of the dialogue window.</li>
+  <li>Click "+ Game Patch (SSP)" on the middle-right of the window.</li>
+  <li>Navigate to the location of "Jung Rhythm (English - v1.0).ssp" and then click "Open" at the bottom right of the dialogue window.</li>
+  <li>Check the box at the bottom-right of the window labeled "Separate Track Files (if applicable)".</li>
+  <li>Click "Patch Image" at the bottom-right of the window and then navigate to the target folder where patched disc image should be stored.</li>
+    <ul>
+      <li>MODE, Satiator, and Fenrir users should select "CUE/BIN" under the "Save as type" dropdown.</li>
+      <li>Rhea/Phoebe users should select "CCD/IMG" under the "Save as type" dropdown.
+      <li>Users burning to CD-R should select "CUE/BIN" under the "Save as type" dropdown, as this format is universally compatible with all popular burning software.</li>
+      <li>Emulator users should select "CUE/BIN" under the "Save as type" dropdown, as this format is universally compatible with all popular emulators.</li>
+    </ul>
+  <li>Once patching is complete, click "X" at the top-right of the window.</li>
+</ol>
+
+<h3>XDelta</h3>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/26548/">Redump version of the game</a> is used as the source disc image, where <tt>Jung Rhythm (Japan) (Track 01).bin</tt> has an MD5 checksum of <tt>2A8828A0E29CF17ED045BDAF29A6E761</tt>.
 <br><br>
 <ol type="1">
@@ -34,8 +58,6 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
 <li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>25F96A0FD0FA64A4AD6D9584B6824354</tt>.</li>
 </ol>
-Note that <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Sega Saturn Patcher</a> is not compatible with the "Jung Rhythm", and thus its format could not be used to distribute this patch.
-
 
 <h2>Credits</h2>
 <ul>
