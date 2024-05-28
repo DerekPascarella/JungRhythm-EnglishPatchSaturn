@@ -92,7 +92,7 @@ After launching the utility, follow the steps below to apply the English transla
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.0 (2024-04-20)</li>
+ <li><b>Version 1.0 (2024-04-20)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
