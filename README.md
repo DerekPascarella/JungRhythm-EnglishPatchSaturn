@@ -1,5 +1,5 @@
 <h1>Jung Rhythm</h1>
-<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/cover.png?raw=true">English translation patch for the rhythm game "Jung Rhythm" on the Sega Saturn.
+<img width="165" height="165" align="right" src="https://raw.githubusercontent.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/refs/heads/main/images/cover.png">English translation patch for the rhythm game "Jung Rhythm" on the Sega Saturn.
 <br><br>
 "Jung Rhythm" is a rhythm game for the Sega Saturn, often compared to "PaRappa the Rapper" for some of its similarities, although according to records, both games were in development simultaneously.
 <br><br>
